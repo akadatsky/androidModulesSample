@@ -1,0 +1,4 @@
+rootProject.name = "mudulesSample"
+include ':mainModule'
+include ':mylibrary'
+include ':ucrop'
